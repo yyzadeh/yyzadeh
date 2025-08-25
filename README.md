@@ -27,7 +27,7 @@ Here are some of my highlighted projects:
 | **Ischemic heart disease death predictio** | Machine Learning | Predicting probability of death by Ischemic heart disease  | Pandas, Numpy, Sklearn, rf, probability prediction | [Link](https://github.com/yyzadeh/Framingham-Ischemic-Heart-Disease-Death-Prediction) |
 | **built a linear regression from scratch** | Machine Learning | Creating a basic linear regression model from scratch by considering mathematical fundamentals | Numpy, regression math fundamentals | [Link](https://github.com/yyzadeh/Linear-Regression-from-Scratch) |
 | **Mafia Night app** | Android programming | Designed, developed, and published a mobile app with responsive UI/UX for Android devices | Flutter, Dart | [Link](https://github.com/yyzadeh/night-mafia) |
-| **Two trend themes designe** | Android programming | Built Glassmorphism and Neumorphism themes in android app | Flutter | [Link]((https://github.com/yyzadeh/Glassmorphism-Neumorphism-UI-Themes)) |
+| **Two trend themes designe** | Android programming | Built Glassmorphism and Neumorphism themes in android app | Flutter | [Link](https://github.com/yyzadeh/Glassmorphism-Neumorphism-UI-Themes) |
 
 
 
