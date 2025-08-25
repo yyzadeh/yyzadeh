@@ -16,7 +16,7 @@
   - 3 years of professional experience in **UI/UX design** and **Android programming**
   - Specialized in **Flutter** and **Dart**
 
-## 📱 Projects
+## ⌨️ Projects
 Here are some of my highlighted projects:
 
 | Project Name | Field | Description | Tech Stack | Link |
