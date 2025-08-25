@@ -9,7 +9,7 @@
 - **Machine Learning & Computer Vision**
   - 1 year of research and projects in **classic ML algorithms** and **Deep Learning**
   - Experienced with **CNNs** and **Vision Transformers (ViT)** for Computer Vision tasks
-  - Data process libraries: **Numpy**, **Pandas**, **Matplotlib**
+  - Data process libraries: **Numpy**, **Pandas**, **Matplotlib**, **Sklearn**
   - CV libraries: **TensorFlow**, **Keras**, **OpenCV**
 
 - **Android Development**
