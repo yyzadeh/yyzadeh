@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 - **Name:** Yousef Yousefian
-- **Born:** 16 May 2006, Yazd, Iran 🇮🇷
+- **Born:** 16 May 2006, Yazd, Iran
 - **Education:** Currently studying **Electrical Engineering** at *Isfahan University of Technology*
 
 ## 💻 Skills & Expertise
