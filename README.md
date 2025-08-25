@@ -21,8 +21,8 @@ Here are some of my highlighted projects:
 
 | Project Name | Field | Description | Tech Stack | Link |
 |--------------|-------|-------------|------------|----------|
-| **Persian car plate OCR** | Computer Vision | Detecting bounding box of car plate and OCR the detected part | TensorFlow, Keras, YOLOv11, easyOCR, OpenCV | [Link](https://github.com/yyzadeh/Persian-car-plate-OCR) |
 | **Control LED light with hand** | Computer Vision | Controlling RGB chanel and brightness of LED by hand gestures | Mediapipe, OpenCV | [Link](https://github.com/Triple-JAM/controlling-RGB-LED-by-hand-gesture) |
+| **Persian car plate OCR** | Computer Vision | Detecting bounding box of car plate and OCR the detected part | TensorFlow, Keras, YOLOv11, easyOCR, OpenCV | [Link](https://github.com/yyzadeh/Persian-car-plate-OCR) |
 | **Recognize sleepy driver** | Computer Vision | Drowsiness and Yawn detection and represent the status with LED | Mediapipe, OpenCV | [Link](Drowsiness-and-Yawn-Detection-with-Mediapipe-and-Arduino) |
 | **Ischemic heart disease death predictio** | Machine Learning | Predicting probability of death by Ischemic heart disease  | Pandas, Numpy, Sklearn, rf, probability prediction | [Link](https://github.com/yyzadeh/Framingham-Ischemic-Heart-Disease-Death-Prediction) |
 | **built a linear regression from scratch** | Machine Learning | Creating a basic linear regression model from scratch by considering mathematical fundamentals | Numpy, regression math fundamentals | [Link](https://github.com/yyzadeh/Linear-Regression-from-Scratch) |
