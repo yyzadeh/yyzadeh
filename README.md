@@ -21,6 +21,7 @@ Here are some of my highlighted projects:
 
 | Project Name | Field | Description | Tech Stack | Link |
 |--------------|-------|-------------|------------|----------|
+| **Pose Angle Estimation with Dual Cameras** | Computer Vision | Predict angle of a person standing in front of the camera with pose detection by using 2 cameras | Mediapipe, OpenCV | [Link](https://github.com/yyzadeh/Pose-Angle-Estimation-with-Dual-Cameras) |
 | **Control LED light with hand** | Computer Vision | Controlling RGB chanel and brightness of LED by hand gestures | Mediapipe, OpenCV | [Link](https://github.com/Triple-JAM/controlling-RGB-LED-by-hand-gesture) |
 | **Ischemic heart disease death predictio** | Machine Learning | Predicting probability of death by Ischemic heart disease  | Pandas, Numpy, Sklearn, rf, probability prediction | [Link](https://github.com/yyzadeh/Framingham-Ischemic-Heart-Disease-Death-Prediction) |
 | **Recognize sleepy driver** | Computer Vision | Drowsiness and Yawn detection and represent the status with LED | Mediapipe, OpenCV | [Link](Drowsiness-and-Yawn-Detection-with-Mediapipe-and-Arduino) |
