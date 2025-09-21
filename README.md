@@ -21,8 +21,9 @@ Here are some of my highlighted projects:
 
 | Project Name | Field | Description | Tech Stack | Link |
 |--------------|-------|-------------|------------|----------|
-| **Pose Angle Estimation with Dual Cameras** | Computer Vision | Predict angle of a person standing in front of the camera with pose detection by using 2 cameras | Mediapipe, OpenCV | [Link](https://github.com/yyzadeh/Pose-Angle-Estimation-with-Dual-Cameras) |
+| **Pose Angle Estimation with Dual Cameras** | Computer Vision | Predict angle of a person standing in front of the camera with pose detection by using 2 cameras | MoveNet (Google), OpenCV | [Link](https://github.com/yyzadeh/Pose-Angle-Estimation-with-Dual-Cameras) |
 | **Control LED light with hand** | Computer Vision | Controlling RGB chanel and brightness of LED by hand gestures | Mediapipe, OpenCV | [Link](https://github.com/Triple-JAM/controlling-RGB-LED-by-hand-gesture) |
+| **Iranian food classification** | Computer Vision | Classify 21 different types of Iranian foods by CNN | Tensorflow, Keras | [Link](https://github.com/yyzadeh/Iranian-Food-Classification/tree/main) |
 | **Ischemic heart disease death predictio** | Machine Learning | Predicting probability of death by Ischemic heart disease  | Pandas, Numpy, Sklearn, rf, probability prediction | [Link](https://github.com/yyzadeh/Framingham-Ischemic-Heart-Disease-Death-Prediction) |
 | **Recognize sleepy driver** | Computer Vision | Drowsiness and Yawn detection and represent the status with LED | Mediapipe, OpenCV | [Link](Drowsiness-and-Yawn-Detection-with-Mediapipe-and-Arduino) |
 | **Persian car plate OCR** | Computer Vision | Detecting bounding box of car plate and OCR the detected part | TensorFlow, Keras, YOLOv11, easyOCR, OpenCV | [Link](https://github.com/yyzadeh/Persian-car-plate-OCR) |
