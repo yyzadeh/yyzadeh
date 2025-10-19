@@ -28,6 +28,7 @@ Here are some of my highlighted projects:
 | **Recognize sleepy driver** | Computer Vision | Drowsiness and Yawn detection and represent the status with LED | Mediapipe, OpenCV | [Link](Drowsiness-and-Yawn-Detection-with-Mediapipe-and-Arduino) |
 | **Persian car plate OCR** | Computer Vision | Detecting bounding box of car plate and OCR the detected part | TensorFlow, Keras, YOLOv11, easyOCR, OpenCV | [Link](https://github.com/yyzadeh/Persian-car-plate-OCR) |
 | **built a linear regression from scratch** | Machine Learning | Creating a basic linear regression model from scratch by considering mathematical fundamentals | Numpy, regression math fundamentals | [Link](https://github.com/yyzadeh/Linear-Regression-from-Scratch) |
+| **General english learning companion** | Android programming | Create an android application for students of General English lessons in Isfahan industry university | Glassmorphism design, quiz page | [Link](https://github.com/yyzadeh/General-English-Learning-Companion) |
 | **Mafia Night app** | Android programming | Designed, developed, and published a mobile app with responsive UI/UX for Android devices | Flutter, Dart | [Link](https://github.com/yyzadeh/night-mafia) |
 | **Two trend themes designe** | Android programming | Built Glassmorphism and Neumorphism themes in android app | Flutter | [Link](https://github.com/yyzadeh/Glassmorphism-Neumorphism-UI-Themes) |
 
