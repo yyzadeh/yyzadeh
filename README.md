@@ -16,6 +16,9 @@
   - 3 years of professional experience in **UI/UX design** and **Android programming**
   - Specialized in **Flutter** and **Dart**
 
+## 📜Certificates
+  - ReACT 2025: A multi-day conference on the latest research articles and technologies in the fields of electricity and computers.[View](https://drive.google.com/file/d/1-TtQ2Xs_BB4HgRv84ux9wwnWPT1XdTT5/view?usp=drive_link)
+  - Principles of scientific paper writing.[View](https://drive.google.com/file/d/1GLo4TDoU26FC7vHJJ_cOU1uZnvwFY6AD/view?usp=drive_link)
 ## ⌨️ Projects
 Here are some of my highlighted projects:
 
