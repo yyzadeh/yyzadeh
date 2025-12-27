@@ -17,6 +17,12 @@
   - Specialized in **Flutter** and **Dart**
 
 ## 📜Certificates
+  - AI Research Intern | Iran AI House July 2025 – October 2025 [View](https://drive.google.com/file/d/1TxHPyPy7AtVSC9SunsjbgNzRNpiu92Wy/view?usp=sharing)
+
+Livestock Monitoring: Developed and implemented Computer Vision project to detect estrus in cows, utilizing motion analysis and behavioral patterns to automate heat detection.
+
+OCR Optimization: Researched and developed high-performance Persian OCR architectures, focusing on adapting multilingual pre-trained models through specialized fine-tuning techniques to optimize script recognition for the Persian language.
+
   - ReACT 2025: A multi-day conference on the latest research articles and technologies in the fields of electricity and computers.[View](https://drive.google.com/file/d/1-TtQ2Xs_BB4HgRv84ux9wwnWPT1XdTT5/view?usp=drive_link)
   - Principles of scientific paper writing.[View](https://drive.google.com/file/d/1GLo4TDoU26FC7vHJJ_cOU1uZnvwFY6AD/view?usp=drive_link)
 ## ⌨️ Projects
