@@ -19,9 +19,9 @@
 ## 📜Certificates
   - AI Research Intern | Iran AI House July 2025 – October 2025 [View](https://drive.google.com/file/d/1TxHPyPy7AtVSC9SunsjbgNzRNpiu92Wy/view?usp=sharing)
 
-Livestock Monitoring: Developed and implemented a computer vision project to detect estrus in cows, utilizing motion analysis and behavioral patterns to automate heat detection.
+      Livestock Monitoring: Developed and implemented a computer vision project to detect estrus in cows, utilizing motion analysis and behavioral patterns to automate heat detection.
 
-OCR Optimization: Researched and developed high-performance Persian OCR architectures, focusing on adapting multilingual pre-trained models through specialized fine-tuning techniques to optimize script recognition for the Persian language.
+      OCR Optimization: Researched and developed high-performance Persian OCR architectures, focusing on adapting multilingual pre-trained models through specialized fine-tuning techniques         to optimize script recognition for the Persian language.
 
   - AI Skill Fest (Microsoft) : Prompt Engineering | AI Tools Adoption [View](https://www.credly.com/badges/21283613-ea16-4390-ad49-b13764fba99c/public_url)
 
