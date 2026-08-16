@@ -24,6 +24,8 @@
       OCR Optimization: Researched and developed high-performance Persian OCR architectures, focusing on adapting multilingual pre-trained models through specialized fine-tuning techniques         to optimize script recognition for the Persian language.
 
   - AI Skill Fest (Microsoft) : Prompt Engineering | AI Tools Adoption [View](https://www.credly.com/badges/21283613-ea16-4390-ad49-b13764fba99c/public_url)
+    
+  - Demonstrates proficiency in evaluating AI-generated content for truth distortion, counteracting bias in decision-making, and utilizing practical tools to fact-check information. [View](https://drive.google.com/file/d/1nlC7Pxl3kr0K-nUgBD7CKXRnYg35F30e/view?usp=sharing)
 
   - ReACT 2025: A multi-day conference on the latest research articles and technologies in the fields of electricity and computers.[View](https://drive.google.com/file/d/1-TtQ2Xs_BB4HgRv84ux9wwnWPT1XdTT5/view?usp=drive_link)
   - Principles of scientific paper writing.[View](https://drive.google.com/file/d/1GLo4TDoU26FC7vHJJ_cOU1uZnvwFY6AD/view?usp=drive_link)
